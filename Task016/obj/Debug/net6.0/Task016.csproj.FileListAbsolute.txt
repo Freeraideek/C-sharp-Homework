@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\C# Homework\Task016\bin\Debug\net6.0\Task016.exe
+C:\Users\acer\Desktop\C# Homework\Task016\bin\Debug\net6.0\Task016.deps.json
+C:\Users\acer\Desktop\C# Homework\Task016\bin\Debug\net6.0\Task016.runtimeconfig.json
+C:\Users\acer\Desktop\C# Homework\Task016\bin\Debug\net6.0\Task016.dll
+C:\Users\acer\Desktop\C# Homework\Task016\bin\Debug\net6.0\ref\Task016.dll
+C:\Users\acer\Desktop\C# Homework\Task016\bin\Debug\net6.0\Task016.pdb
+C:\Users\acer\Desktop\C# Homework\Task016\obj\Debug\net6.0\Task016.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\C# Homework\Task016\obj\Debug\net6.0\Task016.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\C# Homework\Task016\obj\Debug\net6.0\Task016.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\C# Homework\Task016\obj\Debug\net6.0\Task016.AssemblyInfo.cs
+C:\Users\acer\Desktop\C# Homework\Task016\obj\Debug\net6.0\Task016.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\C# Homework\Task016\obj\Debug\net6.0\Task016.dll
+C:\Users\acer\Desktop\C# Homework\Task016\obj\Debug\net6.0\ref\Task016.dll
+C:\Users\acer\Desktop\C# Homework\Task016\obj\Debug\net6.0\Task016.pdb
+C:\Users\acer\Desktop\C# Homework\Task016\obj\Debug\net6.0\Task016.genruntimeconfig.cache
