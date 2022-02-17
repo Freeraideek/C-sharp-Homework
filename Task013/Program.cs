@@ -12,5 +12,15 @@ while (b <= 0)
     Console.Write("Введите натуральную степень в которо хотите возвести число A: ");
 }
 
-double result = Math.Pow(a, b);
-Console.WriteLine($"{a} ^ {b} = {result}");
+double Exponentiation(double a, int b)
+{
+    double exp = 1;
+    for (int i = 0; i < b; i++)
+    {
+        exp = exp * a;
+    }
+    return exp;
+}
+
+double exp = Exponentiation(a,b);
+Console.WriteLine($"Решение: {a} ^ {b} = {exp}");
