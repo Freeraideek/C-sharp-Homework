@@ -1,13 +1,13 @@
 ﻿// Написать программу замену элементов массива на противоположные
 
-int[] array = new int [20];
+int[] array = new int[20];
 Random rand = new Random();
 void FillArray(int[] arr)
 {
     int position = 0;
     while (position < arr.Length)
     {
-        arr[position] = rand.Next(-20,20);
+        arr[position] = rand.Next(-20, 20);
         Console.Write($"{arr[position]} ");
         position++;
     }
@@ -17,7 +17,7 @@ FillArray(array);
 
 void SubstitutionNumber(int[] arr)
 {
-    for(int index=0; index<arr.Length; index++)
+    for (int index = 0; index < arr.Length; index++)
     {
         arr[index] = arr[index] * -1;
         Console.Write($"{arr[index]} ");
