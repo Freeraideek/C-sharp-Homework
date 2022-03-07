@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\C# Homework\Task028\bin\Debug\net6.0\Task028.exe
+C:\Users\acer\Desktop\C# Homework\Task028\bin\Debug\net6.0\Task028.deps.json
+C:\Users\acer\Desktop\C# Homework\Task028\bin\Debug\net6.0\Task028.runtimeconfig.json
+C:\Users\acer\Desktop\C# Homework\Task028\bin\Debug\net6.0\Task028.dll
+C:\Users\acer\Desktop\C# Homework\Task028\bin\Debug\net6.0\ref\Task028.dll
+C:\Users\acer\Desktop\C# Homework\Task028\bin\Debug\net6.0\Task028.pdb
+C:\Users\acer\Desktop\C# Homework\Task028\obj\Debug\net6.0\Task028.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\C# Homework\Task028\obj\Debug\net6.0\Task028.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\C# Homework\Task028\obj\Debug\net6.0\Task028.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\C# Homework\Task028\obj\Debug\net6.0\Task028.AssemblyInfo.cs
+C:\Users\acer\Desktop\C# Homework\Task028\obj\Debug\net6.0\Task028.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\C# Homework\Task028\obj\Debug\net6.0\Task028.dll
+C:\Users\acer\Desktop\C# Homework\Task028\obj\Debug\net6.0\ref\Task028.dll
+C:\Users\acer\Desktop\C# Homework\Task028\obj\Debug\net6.0\Task028.pdb
+C:\Users\acer\Desktop\C# Homework\Task028\obj\Debug\net6.0\Task028.genruntimeconfig.cache
